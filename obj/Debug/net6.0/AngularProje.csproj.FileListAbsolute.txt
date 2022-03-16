@@ -1,0 +1,15 @@
+C:\Users\aliak\AngularProje\bin\Debug\net6.0\AngularProje.exe
+C:\Users\aliak\AngularProje\bin\Debug\net6.0\AngularProje.deps.json
+C:\Users\aliak\AngularProje\bin\Debug\net6.0\AngularProje.runtimeconfig.json
+C:\Users\aliak\AngularProje\bin\Debug\net6.0\AngularProje.dll
+C:\Users\aliak\AngularProje\bin\Debug\net6.0\AngularProje.pdb
+C:\Users\aliak\AngularProje\obj\Debug\net6.0\AngularProje.csproj.AssemblyReference.cache
+C:\Users\aliak\AngularProje\obj\Debug\net6.0\AngularProje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aliak\AngularProje\obj\Debug\net6.0\AngularProje.AssemblyInfoInputs.cache
+C:\Users\aliak\AngularProje\obj\Debug\net6.0\AngularProje.AssemblyInfo.cs
+C:\Users\aliak\AngularProje\obj\Debug\net6.0\AngularProje.csproj.CoreCompileInputs.cache
+C:\Users\aliak\AngularProje\obj\Debug\net6.0\AngularProje.dll
+C:\Users\aliak\AngularProje\obj\Debug\net6.0\refint\AngularProje.dll
+C:\Users\aliak\AngularProje\obj\Debug\net6.0\AngularProje.pdb
+C:\Users\aliak\AngularProje\obj\Debug\net6.0\AngularProje.genruntimeconfig.cache
+C:\Users\aliak\AngularProje\obj\Debug\net6.0\ref\AngularProje.dll
